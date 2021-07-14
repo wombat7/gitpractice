@@ -2,9 +2,7 @@ class Hello
 {
 public static void main(String args[])
 {
-System.out.println("hello,Good Bye");
+System.out.println("hello GIRIDHAR");
 }
 }
-
-
 
